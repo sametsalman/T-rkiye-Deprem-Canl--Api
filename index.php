@@ -1,1 +1,2 @@
-echo 'samet'
+<?php
+echo 'samet';
